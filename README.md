@@ -4,6 +4,8 @@
 
 This app runs through the Gitbash terminal and mySql database. It is possible to see the functionality through watching it at this link..
 
+https://youtu.be/8I96iobNTyE
+
 ## Requirements
 #### 
 1. Create a MySQL Database called Bamazon.
